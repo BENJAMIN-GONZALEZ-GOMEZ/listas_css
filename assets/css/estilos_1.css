@@ -1,0 +1,15 @@
+.primer_titulo{
+    color: blue;
+}
+#parrafo_1{
+    color:green
+}
+#parrafo_2{
+    color:green
+}
+ul{
+    list-style-image: url('../css/mano-25px.png');
+}
+#color_elm3{
+    color:blue
+}
